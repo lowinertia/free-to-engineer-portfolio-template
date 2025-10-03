@@ -6,7 +6,7 @@ How do you stand out and get hired in today's market? A strong portfolio demonst
 
 **NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
-### 2. No-code Portfolio Builder at [lowinertia.com](https://lowinertia.com)
+### 2. Free No-code Portfolio Builder at [lowinertia.com](https://lowinertia.com)
 
 Portfolio builder made for engineers with 2 min onboarding with smart resume import. Vist [lowinertia.com](https://lowinertia.com) to find out more 
 
