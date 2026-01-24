@@ -1,5 +1,5 @@
 # Portfolio For Current and Aspiring Engineers
-How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is prociding you all the tools you need to get started! Check out <a href="https://lowinertia.github.io/" target="_blank">the free portfolio demo here</a>. Follow along the instruction below to setup and personalize your page. 
+How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is prociding you all the tools you need to get started! Check out <a href="https://lowinertia.com/portfolio/stanley" target="_blank"> the demo page</a> made with free portfolio builder at lowinertia.com. Set up your portfolio within 2 minutes with smart resume import. Follow along the instruction below to setup and personalize your page. 
 
 ## There are two option:
 ### 1. Self-host on github : free-to-engineer template
