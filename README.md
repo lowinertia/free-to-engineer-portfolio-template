@@ -1,14 +1,16 @@
-# Portfolio For Current and Aspiring Engineers
-How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is prociding you all the tools you need to get started! Check out <a href="https://lowinertia.com/portfolio/stanley" target="_blank"> the demo page</a> made with free portfolio builder at lowinertia.com. Set up your portfolio within 2 minutes with smart resume import. Follow along the instruction below to setup and personalize your page. 
+# Portfolio Builder for Engineers
+How do you stand out and get hired in today's market? A strong portfolio demonstrates your technical skills and problem-solving in ways a resume just can't, giving you a clear advantage in your job search. Here, Lowinertia is providing you all the tools you need to get started! Check out <a href="https://lowinertia.com/portfolio/stanley" target="_blank"> the demo page</a> made with free portfolio builder at lowinertia.com. Set up your portfolio within 2 minutes with smart resume import. Enjoy the premium features like design showcase builder, engineering notebooks, private access code, analytics. 
 
 ## There are two option:
-### 1. Self-host on github : free-to-engineer template (<a href="https://lowinertia.github.io/" target="_blank"> Demo page </a>)
 
-**NOTE:** If you are familiar with Jekyll and Github workflows, the initial setup would take about 30 minutes. If you are not familiar with Github and config and markdown files, this could be challenging and may take more than an hour.
 
-### 2. No-code Portfolio Builder at [lowinertia.com](https://lowinertia.com)
+### 1. Portfolio Builder at [lowinertia.com](https://lowinertia.com)
 
-Portfolio builder made for engineers with 2 min onboarding with smart resume import. Vist [lowinertia.com](https://lowinertia.com) to find out more. Enjoy integrated tools such as rich text editor, interactive CAD presenter, PDF export, and engineering notebook. Highly recommended for engineers in mechanical, electrical, aerospace, robotics, mechatronics, and civil disciplines. 
+Portfolio builder made for engineers with 2 min onboarding with smart resume import. Vist [lowinertia.com](https://lowinertia.com) to find out more. Enjoy integrated tools such as rich text editor, interactive CAD presenter, PDF export, engineering notebooks, and private access code. Highly recommended for engineers in mechanical, electrical, aerospace, robotics, mechatronics, and civil disciplines. 
+
+### 2. Self-host on github : free-to-engineer template (<a href="https://lowinertia.github.io/" target="_blank"> Demo page </a>)
+
+**NOTE:** If you want complete control over customization, you can clone this template. You would need to be familiar with Jekyll and Github workflows, and the functionality would be limited. Depends on how familiar you are with Github and markdown files, the initial setup could be challenging and may take anywhere from 30 minutes to an hour.
 
 
 # free-to-engineer-portflio-template instructions
