@@ -10,7 +10,7 @@ Portfolio builder made for engineers with 2 min onboarding with smart resume imp
 
 ### 2. Self-host on github : free-to-engineer template (<a href="https://lowinertia.github.io/" target="_blank"> Demo page </a>)
 
-**NOTE:** If you want complete control over customization, you can clone this template. You would need to be familiar with Jekyll and Github workflows, and the functionality would be limited. Depends on how familiar you are with Github and markdown files, the initial setup could be challenging and may take anywhere from 30 minutes to an hour.
+If you want complete control over customization of your portfolio, you can use this template. However, the functionality would be limited and you would need to be familiar with Jekyll and Github workflows. Depends on how familiar you are with Github and markdown files, the initial setup could be challenging and may take anywhere from 30 minutes to an hour.
 
 
 # free-to-engineer-portflio-template instructions
